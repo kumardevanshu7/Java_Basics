@@ -2,7 +2,7 @@ package Recursion_01_Basics;
 
 public class Mix_Of_Front_Back_Counting_02 {
 	
-	// printing : 5 4 3 2 1 1 2 3 4 5
+	// Printing : 5 4 3 2 1 1 2 3 4 5
 
 	public static void main(String[] args) {
 
