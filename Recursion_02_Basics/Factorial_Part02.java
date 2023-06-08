@@ -10,6 +10,7 @@ public class Factorial_Part02 {
 	}
 
 	// creating a factorial function & return type is integer
+	// this is tail recursion
 	public static int fact(int n, int ans) {
 
 		if (n == 0) {
