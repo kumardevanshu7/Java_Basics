@@ -8,7 +8,7 @@ public class Factorial {
 
 	}
 
-	// creating a factorial function & return type is integer
+	// creating a factorial function & return type is Integer
 	public static int fact(int n) {
 
 		// initiate the base case where our recursion will stop
