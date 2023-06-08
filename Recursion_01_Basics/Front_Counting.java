@@ -1,10 +1,11 @@
 package Recursion_01_Basics;
 
-public class Front_Count {
+public class Front_Counting {
 
 	public static void main(String[] args) {
 
 		frontcount(5);
+		// printing : 1 2 3 4 5
 
 	}
 
