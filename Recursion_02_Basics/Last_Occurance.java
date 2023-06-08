@@ -4,7 +4,7 @@ public class Last_Occurance {
 
 	public static void main(String[] args) {
 
-		int arr[] = { 2, 3, 4, 4, 5, 7, 6, 4, 3, 4, 5, 6, 3 };
+		int arr[] = { 2, 3, 4, 4, 5, 7, 6, 4, 3, 4, 5, 6};
 		int num = 4;
 		System.out.println(arr.length);
 		System.out.println(lastoccur(arr, arr.length - 1, num));
