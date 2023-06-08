@@ -4,7 +4,7 @@ public class All_Occurances {
 
 	public static void main(String[] args) {
 
-		int arr[] = { 2, 3, 4, 4, 5, 7, 6, 4, 3, 4, 5, 6, 3 };
+		int arr[] = { 2, 3, 4, 4, 5, 7, 6, 4, 3, 4, 5};
 		int num = 9;
 		int new_Arr[] = new int[arr.length];
 		int ans[] = alloccurs(arr, 0, num, new_Arr);
