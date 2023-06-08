@@ -4,7 +4,7 @@ public class First_Occurances {
 
 	public static void main(String[] args) {
 
-		int[] arr = {2, 3, 7, 3, 3, 7, 6, 3, 6, 3, 4, 5, 7, 6, 6, 6, 6, 6, 9};
+		int[] arr = {2, 3, 7, 3, 3, 7, 6, 3, 6, 3, 4, 5, 7, 6};
 		int num = 7;
 		System.out.println(firstoccur(arr, num, 0));
 	}
